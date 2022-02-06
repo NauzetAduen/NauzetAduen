@@ -2,7 +2,7 @@
 
 ### I'm a Flutter developer
 
-### You can find me [here](https://nauzet-portfolio.web.app)
+### You can find me [here](https://nauzet.vercel.app/)
 
 
 
